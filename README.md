@@ -8,6 +8,9 @@ CivicLens AI is a smart web application that enables citizens to report civic is
 
 This project was developed as a prototype for a Web Development Hackathon, where Google AI Studio/Gemini serves as the central intelligence layer rather than just an additional feature.
 
+Linkedin Post Link :-
+https://www.linkedin.com/posts/hania-khan-2ba44140b_googledevelopergroup-gdg-hackathon-ugcPost-7479604953460953089-77rx/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGiJrG4BKnIuZMDT99lv4-VIGoX6hedBJcA 
+
 ---
 
 # 🚀 Features
